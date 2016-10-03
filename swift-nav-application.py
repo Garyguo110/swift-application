@@ -3,8 +3,9 @@ import math
 # #####
 # This file was written by Gary Guo on October 3rd 2016
 # To be submitted for the Swift Navigation Software Engineering application.
-# note, at Hive we do not write tests for our code.
-# however I am not against writing tests
+# At Hive we do not write tests for our code.
+# At Hive we do not write formal documentation, we use comments
+# however I am not against writing tests or documents
 # it's just something that we didn't need at our size :)
 # #####
 
